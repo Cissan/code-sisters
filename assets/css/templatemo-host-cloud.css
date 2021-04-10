@@ -85,7 +85,7 @@ a.gradient-button:hover {
 }
 
 .page-heading {
-	background-image: url(../images/heading-bg.jpg);
+	background-image: url(../images/Movies.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -99,10 +99,12 @@ a.gradient-button:hover {
 	font-weight: 700;
 	letter-spacing: 0.5px;
 	margin-bottom: 20px;
+	background-color: black;
 }
 .page-heading p {
 	color: #fff;
 	letter-spacing: 0.5px;
+	background-color: black;
 }
 .page-heading p a {
 	color: #fff;

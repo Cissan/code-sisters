@@ -202,7 +202,7 @@ header {
 	position: fixed;
 	z-index: 99999;
 	width: 100%;
-	background-color: transparent!important;
+	background-color: black;
 	border-bottom: 1px solid rgba(250,250,250,0.30);
 	height: 80px;
 	-webkit-transition: all .5s ease 0s;
@@ -211,14 +211,14 @@ header {
     transition: all .5s ease 0s;
 }
 .background-header {
-	background-color: #fff!important;
+	background-color: black;
 	box-shadow: 0px 1px 10px rgba(0,0,0,0.1);
 }
 .background-header .navbar-brand h2 {
-	color: #1e1e1e!important;
+	color: #fff;
 }
 .background-header .navbar-nav a.nav-link {
-	color: #1e1e1e!important;
+	color: #fff;
 }
 .background-header .functional-buttons	ul li:first-child a {
 	display: inline-block;
@@ -351,7 +351,7 @@ header {
 
 /* Banner Style */
 .banner {
-	background-image: url(../images/banner-bg.jpg);
+	background-image: url(../images/Movies.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	padding: 300px 0px;
@@ -359,6 +359,7 @@ header {
 }
 .banner .caption {
 	text-align: center;
+	background-color:black;
 }
 .banner .caption h2 {
 	text-transform: uppercase;

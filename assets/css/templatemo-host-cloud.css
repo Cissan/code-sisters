@@ -558,11 +558,9 @@ header {
 	margin-bottom: 45px;
 }
 .pricing-item .price-gradient {
-	background: rgb(114,2,187);
-    background: linear-gradient(145deg, rgba(114,2,187,1) 0%, rgba(50,100,245,1) 100%);
 }
 .pricing-item .price {
-	background-color: #00bcd4;
+	
 	width: 100%;
 	padding: 30px 0px;
 	margin-bottom: 35px;
